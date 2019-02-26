@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog</td>
+    <td>Python coding</td>
     <td>Date</td>
-    <td>11/12/18</td>
+    <td>27/2/19</td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To understand key components </td>
+    <td>To get my buzzfeed quiz to work</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,13 +41,13 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>learned how to change the colour of things in html, how to change fonts and to make different adjustments I to the webpage. Looking at W3 schools allowed me to be able to complete the majority of work around changing font colour. I our lesson we also go told about computers internally and how they work which was very interesting.</td>
+    <td>In It so far we have learned how to change the colour of things in html, how to change fonts and to make different adjustments I to the webpage. Looking at W3 schools allowed me to be able to complete the majority of work around changing font colour. I our lesson we also go told about computers internally and how they work which was very interesting.Now we have progressed to python and working on our buzzfeed quizzes</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Not much limited my learning this lesson as I managed to create the work to a high standard without much input from the teacher and I completed it in a short amount of time.This happens most lessons but as I am a bit behind on work I am not entirely sure what happened two weeks ago . In addition last lesson we stayed at the front to answer and question what MR.Keen is saying </td>
+    <td>Not much limited my learning this lesson as I managed to create the work to a high standard without much input from the teacher and I completed it in a short amount of time.This happens most lessons but as I am a bit behind on work I am not entirely sure what happened two weeks ago . In addition last lesson we stayed at the front to answer and question what Mr.Keen is saying </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
